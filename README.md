@@ -1,8 +1,8 @@
 # Project-Numpy-
 
-Path: project_data = 'KAG_Conversion_Data.csv'
+Project_data = 'KAG_Conversion_Data.csv'
 
-Features:
+Data Features:
 
 - ad_id: unique ID for each ad
 - xyzcampaignid: an ID associated with each ad campaign of XYZ company
